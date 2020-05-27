@@ -49,4 +49,4 @@ About 10 hours.
 About 90%.
 ## 6. Conclusion and reflection
 ![alt text](https://github.com/elvis-suazo/real-estate-analysis-in-florida/blob/master/zestimate%20vs%20yield.png "zestimate vs rental yield")
-A higher investment doesn’t suggest a higher return, in fact, the opposite seems to be true. The houses above the trendline have a better performance than average from an investment’s point of view. Further analysis is required for the outliers with very good yield/price.
+After checking out 726 houses in 34743 Florida, it seems that a higher investment doesn’t suggest a higher return, in fact, the opposite seems to be true. The houses above the trendline have a better performance than average from an investment’s point of view. Further analysis is required for the outliers with very good yield/price.
